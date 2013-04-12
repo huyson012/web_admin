@@ -1,0 +1,20 @@
+#page {
+    padding-top: 60px;
+}
+#formLogin {
+    width: 300px;
+    
+    margin:0 auto;
+    margin-top: 100px;
+}
+.span-19{
+    margin-top:10px;
+    width: 800px;
+    border: 1px solid #DDDDDD;
+}
+.span-19 .pagination{
+    float: right;
+}
+.span-19 .pager-list{
+    float: right;
+}
